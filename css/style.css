@@ -1,0 +1,38 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.card {
+    transition: transform 0.2s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.progress {
+    height: 8px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.filter-card {
+    position: sticky;
+    top: 20px;
+}
+
+@media (max-width: 768px) {
+    .filter-card {
+        position: static;
+        margin-bottom: 20px;
+    }
+}
