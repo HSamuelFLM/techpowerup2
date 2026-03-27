@@ -1,0 +1,70 @@
+{
+  "gpus": [
+    {
+      "id": 1,
+      "name": "RTX 4090",
+      "brand": "NVIDIA",
+      "vram": 24,
+      "memory_type": "GDDR6X",
+      "performance_score": 100,
+      "price": 1599,
+      "release_date": "2022",
+      "image": "https://via.placeholder.com/300x200?text=RTX+4090"
+    },
+    {
+      "id": 2,
+      "name": "RX 7900 XTX",
+      "brand": "AMD",
+      "vram": 24,
+      "memory_type": "GDDR6",
+      "performance_score": 95,
+      "price": 999,
+      "release_date": "2022",
+      "image": "https://via.placeholder.com/300x200?text=RX+7900+XTX"
+    },
+    {
+      "id": 3,
+      "name": "RTX 4080",
+      "brand": "NVIDIA",
+      "vram": 16,
+      "memory_type": "GDDR6X",
+      "performance_score": 85,
+      "price": 1199,
+      "release_date": "2022",
+      "image": "https://via.placeholder.com/300x200?text=RTX+4080"
+    },
+    {
+      "id": 4,
+      "name": "RX 7800 XT",
+      "brand": "AMD",
+      "vram": 16,
+      "memory_type": "GDDR6",
+      "performance_score": 75,
+      "price": 499,
+      "release_date": "2023",
+      "image": "https://via.placeholder.com/300x200?text=RX+7800+XT"
+    },
+    {
+      "id": 5,
+      "name": "RTX 4070 Ti",
+      "brand": "NVIDIA",
+      "vram": 12,
+      "memory_type": "GDDR6X",
+      "performance_score": 70,
+      "price": 799,
+      "release_date": "2023",
+      "image": "https://via.placeholder.com/300x200?text=RTX+4070+Ti"
+    },
+    {
+      "id": 6,
+      "name": "Arc A770",
+      "brand": "Intel",
+      "vram": 16,
+      "memory_type": "GDDR6",
+      "performance_score": 65,
+      "price": 349,
+      "release_date": "2022",
+      "image": "https://via.placeholder.com/300x200?text=Arc+A770"
+    }
+  ]
+}
